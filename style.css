@@ -1,0 +1,63 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+.section-light{
+    background-color:#eceeef;
+    padding: 2rem;
+}
+.section-dark{
+    background-color:#cccccc;
+    padding:2rem;
+}
+.carousel-caption{
+    text-align: left;
+    color: azure;
+    font-size: 25px;
+}
+.wrapbutton{
+    margin-top: 40px;
+}
+button.coolbtn{
+    background: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+    border:0px;
+}
+img.btnpress{
+    margin: auto;
+    display: block;
+}
+h5.modal-title{
+    margin: auto;
+}
+.form-wrap{
+    padding: 2rem;
+}
+.imgcenter{
+    margin: auto;
+    display: block;
+    margin-bottom: 15px;
+}
+.btncenter{
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 75%;
+}
+#subtext{
+    color:#ffffff;
+    font-weight: 800;
+    text-align: center;
+    font-size: 20px;
+}
+.footerimg{
+    padding: 15px;
+}
+.fa{
+    margin: 10px;
+}
+.footwrap{
+    margin: auto;
+}
